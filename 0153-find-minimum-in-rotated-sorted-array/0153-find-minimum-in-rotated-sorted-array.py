@@ -5,7 +5,7 @@ class Solution:
         while l<=r:
             if nums[l]<nums[r]:
                 res=min(res,nums[l])
-                break
+                
 
             m=(l+r)//2
             res=min(res,nums[m])
