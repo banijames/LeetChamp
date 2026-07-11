@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0138-copy-list-with-random-pointer](https://github.com/banijames/LeetChamp/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/banijames/LeetChamp/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/banijames/LeetChamp/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/banijames/LeetChamp/tree/master/0202-happy-number) |
 | [3046-split-the-array](https://github.com/banijames/LeetChamp/tree/master/3046-split-the-array) |
 ## Counting
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/banijames/LeetChamp/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/banijames/LeetChamp/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/banijames/LeetChamp/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/banijames/LeetChamp/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/banijames/LeetChamp/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/banijames/LeetChamp/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/banijames/LeetChamp/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -100,4 +102,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/banijames/LeetChamp/tree/master/0005-longest-palindromic-substring) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/banijames/LeetChamp/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/banijames/LeetChamp/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
