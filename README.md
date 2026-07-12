@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/banijames/LeetChamp/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/banijames/LeetChamp/tree/master/0875-koko-eating-bananas) |
 | [1331-rank-transform-of-an-array](https://github.com/banijames/LeetChamp/tree/master/1331-rank-transform-of-an-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/banijames/LeetChamp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3046-split-the-array](https://github.com/banijames/LeetChamp/tree/master/3046-split-the-array) |
 ## Binary Search
 |  |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/banijames/LeetChamp/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/banijames/LeetChamp/tree/master/0202-happy-number) |
 | [1331-rank-transform-of-an-array](https://github.com/banijames/LeetChamp/tree/master/1331-rank-transform-of-an-array) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/banijames/LeetChamp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3046-split-the-array](https://github.com/banijames/LeetChamp/tree/master/3046-split-the-array) |
 ## Counting
 |  |
@@ -123,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/banijames/LeetChamp/tree/master/0023-merge-k-sorted-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/banijames/LeetChamp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 <!---LeetCode Topics End-->
