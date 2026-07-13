@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/banijames/LeetChamp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/banijames/LeetChamp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/banijames/LeetChamp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/banijames/LeetChamp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/banijames/LeetChamp/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/banijames/LeetChamp/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/banijames/LeetChamp/tree/master/0287-find-the-duplicate-number) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/banijames/LeetChamp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/banijames/LeetChamp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/banijames/LeetChamp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/banijames/LeetChamp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/banijames/LeetChamp/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/banijames/LeetChamp/tree/master/0287-find-the-duplicate-number) |
 | [0875-koko-eating-bananas](https://github.com/banijames/LeetChamp/tree/master/0875-koko-eating-bananas) |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/banijames/LeetChamp/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/banijames/LeetChamp/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/banijames/LeetChamp/tree/master/0143-reorder-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/banijames/LeetChamp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/banijames/LeetChamp/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/banijames/LeetChamp/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/banijames/LeetChamp/tree/master/0287-find-the-duplicate-number) |
