@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/banijames/LeetChamp/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/banijames/LeetChamp/tree/master/0875-koko-eating-bananas) |
 | [1331-rank-transform-of-an-array](https://github.com/banijames/LeetChamp/tree/master/1331-rank-transform-of-an-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/banijames/LeetChamp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/banijames/LeetChamp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3046-split-the-array](https://github.com/banijames/LeetChamp/tree/master/3046-split-the-array) |
 ## Binary Search
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/banijames/LeetChamp/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/banijames/LeetChamp/tree/master/0202-happy-number) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/banijames/LeetChamp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/banijames/LeetChamp/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
 |  |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/banijames/LeetChamp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/banijames/LeetChamp/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Tree
 |  |
