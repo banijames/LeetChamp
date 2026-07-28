@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/banijames/LeetChamp/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/banijames/LeetChamp/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/banijames/LeetChamp/tree/master/0202-happy-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/banijames/LeetChamp/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/banijames/LeetChamp/tree/master/1979-find-greatest-common-divisor-of-array) |
