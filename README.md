@@ -113,12 +113,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/banijames/LeetChamp/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/banijames/LeetChamp/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/banijames/LeetChamp/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/banijames/LeetChamp/tree/master/0231-power-of-two) |
 ## Math
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/banijames/LeetChamp/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/banijames/LeetChamp/tree/master/0007-reverse-integer) |
 | [0202-happy-number](https://github.com/banijames/LeetChamp/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/banijames/LeetChamp/tree/master/0231-power-of-two) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/banijames/LeetChamp/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/banijames/LeetChamp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/banijames/LeetChamp/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/banijames/LeetChamp/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/banijames/LeetChamp/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/banijames/LeetChamp/tree/master/0287-find-the-duplicate-number) |
 ## Dynamic Programming
 |  |
