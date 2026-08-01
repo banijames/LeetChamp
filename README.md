@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/banijames/LeetChamp/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/banijames/LeetChamp/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/banijames/LeetChamp/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/banijames/LeetChamp/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/banijames/LeetChamp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3046-split-the-array](https://github.com/banijames/LeetChamp/tree/master/3046-split-the-array) |
 ## Binary Search
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/banijames/LeetChamp/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/banijames/LeetChamp/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/banijames/LeetChamp/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/banijames/LeetChamp/tree/master/2149-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/banijames/LeetChamp/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/banijames/LeetChamp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/banijames/LeetChamp/tree/master/0226-invert-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/banijames/LeetChamp/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
