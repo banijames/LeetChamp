@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/banijames/LeetChamp/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/banijames/LeetChamp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3046-split-the-array](https://github.com/banijames/LeetChamp/tree/master/3046-split-the-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/banijames/LeetChamp/tree/master/3925-concatenate-array-with-reverse) |
 ## Binary Search
 |  |
 | ------- |
@@ -218,4 +219,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/banijames/LeetChamp/tree/master/2149-rearrange-array-elements-by-sign) |
+| [3925-concatenate-array-with-reverse](https://github.com/banijames/LeetChamp/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
