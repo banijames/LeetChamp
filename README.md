@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/banijames/LeetChamp/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/banijames/LeetChamp/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0704-binary-search](https://github.com/banijames/LeetChamp/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/banijames/LeetChamp/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/banijames/LeetChamp/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-car-fleet](https://github.com/banijames/LeetChamp/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/banijames/LeetChamp/tree/master/0875-koko-eating-bananas) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/banijames/LeetChamp/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/banijames/LeetChamp/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/banijames/LeetChamp/tree/master/1480-running-sum-of-1d-array) |
 ## Enumeration
 |  |
