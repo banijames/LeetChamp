@@ -1,45 +1,37 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-            vector<vector<int>> res;
+       sort(nums.begin(), nums.end()); // Array MUST be sorted
+    vector<vector<int>> result;
 
-        sort(nums.begin(), nums.end());
+    for (int i = 0; i < (int)nums.size() - 2; i++) {
+        // Skip duplicate values for 'i' to avoid duplicate triplets
+        if (i > 0 && nums[i] == nums[i - 1]) continue;
 
-        int n = nums.size();
+        int j = i + 1;
+        int k = nums.size() - 1;
 
-        for (int i = 0; i < n; i++) {
+        while (j < k) {
+            int sum = nums[i] + nums[j] + nums[k];
 
-            if (i > 0 && nums[i] == nums[i - 1]) {
-                continue;
-            }
+            if (sum == 0) {
+                result.push_back({nums[i], nums[j], nums[k]});
+                
+                // Skip duplicates for 'j' and 'k'
+                while (j < k && nums[j] == nums[j + 1]) j++;
+                while (j < k && nums[k] == nums[k - 1]) k--;
 
-            int l = i + 1;
-            int r = n - 1;
-
-            while (l < r) {
-
-                int threeSum = nums[i] + nums[l] + nums[r];
-
-                if (threeSum < 0) {
-                    l++;
-                }
-                else if (threeSum > 0) {
-                    r--;
-                }
-                else {
-
-                    res.push_back({nums[i], nums[l], nums[r]});
-
-                    l++;
-
-                    while (l < r && nums[l] == nums[l - 1]) {
-                        l++;
-                    }
-                }
+                j++;
+                k--;
+            } 
+            else if (sum < 0) {
+                j++; // Sum too small -> move left pointer right
+            } 
+            else {
+                k--; // Sum too large -> move right pointer left
             }
         }
-
-        return res;
-        
+    }
+    return result;
     }
 };
