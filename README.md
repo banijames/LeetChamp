@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/banijames/LeetChamp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/banijames/LeetChamp/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/banijames/LeetChamp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/banijames/LeetChamp/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/banijames/LeetChamp/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/banijames/LeetChamp/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/banijames/LeetChamp/tree/master/0287-find-the-duplicate-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/banijames/LeetChamp/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/banijames/LeetChamp/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/banijames/LeetChamp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/banijames/LeetChamp/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/banijames/LeetChamp/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/banijames/LeetChamp/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/banijames/LeetChamp/tree/master/0287-find-the-duplicate-number) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/banijames/LeetChamp/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/banijames/LeetChamp/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/banijames/LeetChamp/tree/master/0012-integer-to-roman) |
+| [0189-rotate-array](https://github.com/banijames/LeetChamp/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/banijames/LeetChamp/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/banijames/LeetChamp/tree/master/0231-power-of-two) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/banijames/LeetChamp/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
