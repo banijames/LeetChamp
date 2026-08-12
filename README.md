@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/banijames/LeetChamp/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/banijames/LeetChamp/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/banijames/LeetChamp/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/banijames/LeetChamp/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/banijames/LeetChamp/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/banijames/LeetChamp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/banijames/LeetChamp/tree/master/0137-single-number-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/banijames/LeetChamp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/banijames/LeetChamp/tree/master/0033-search-in-rotated-sorted-array) |
+| [0035-search-insert-position](https://github.com/banijames/LeetChamp/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/banijames/LeetChamp/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/banijames/LeetChamp/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/banijames/LeetChamp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
