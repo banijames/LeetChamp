@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/banijames/LeetChamp/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/banijames/LeetChamp/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/banijames/LeetChamp/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/banijames/LeetChamp/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/banijames/LeetChamp/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/banijames/LeetChamp/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/banijames/LeetChamp/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/banijames/LeetChamp/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/banijames/LeetChamp/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/banijames/LeetChamp/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/banijames/LeetChamp/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/banijames/LeetChamp/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/banijames/LeetChamp/tree/master/1331-rank-transform-of-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/banijames/LeetChamp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/banijames/LeetChamp/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/banijames/LeetChamp/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/banijames/LeetChamp/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/banijames/LeetChamp/tree/master/1480-running-sum-of-1d-array) |
 ## Enumeration
