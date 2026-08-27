@@ -1,17 +1,20 @@
 class Solution {
 public:
     void moveZeroes(vector<int>& nums) {
-        int slow = 0;//checks for the non zero element
+        vector<int> ans;
+        int n = nums.size();
 
-        for(int i = 0; i<nums.size(); i++){//scans through entire array
+        for(int i=0; i<n; i++){
             if(nums[i]!=0){
-                //swap slow and non zero
-                swap(nums[slow],nums[i]);
-                //forwards slow
-                slow++;
+                ans.push_back(nums[i]);
             }
-
         }
+        for(int i=0; i<n; i++){
+            if(nums[i]==0){
+                ans.push_back(nums[i]);
+            }
+        }
+        nums = ans;
 
     }
 };
