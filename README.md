@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/banijames/LeetChamp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/banijames/LeetChamp/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/banijames/LeetChamp/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/banijames/LeetChamp/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/banijames/LeetChamp/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/banijames/LeetChamp/tree/master/0287-find-the-duplicate-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/banijames/LeetChamp/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/banijames/LeetChamp/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/banijames/LeetChamp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/banijames/LeetChamp/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/banijames/LeetChamp/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/banijames/LeetChamp/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/banijames/LeetChamp/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/banijames/LeetChamp/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/banijames/LeetChamp/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/banijames/LeetChamp/tree/master/0146-lru-cache) |
 | [0202-happy-number](https://github.com/banijames/LeetChamp/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/banijames/LeetChamp/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/banijames/LeetChamp/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/banijames/LeetChamp/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/banijames/LeetChamp/tree/master/0523-continuous-subarray-sum) |
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/banijames/LeetChamp/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/banijames/LeetChamp/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/banijames/LeetChamp/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/banijames/LeetChamp/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/banijames/LeetChamp/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0853-car-fleet](https://github.com/banijames/LeetChamp/tree/master/0853-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/banijames/LeetChamp/tree/master/0977-squares-of-a-sorted-array) |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/banijames/LeetChamp/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/banijames/LeetChamp/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/banijames/LeetChamp/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/banijames/LeetChamp/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/banijames/LeetChamp/tree/master/0523-continuous-subarray-sum) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/banijames/LeetChamp/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/banijames/LeetChamp/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -181,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/banijames/LeetChamp/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/banijames/LeetChamp/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/banijames/LeetChamp/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/banijames/LeetChamp/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/banijames/LeetChamp/tree/master/0287-find-the-duplicate-number) |
 | [1009-complement-of-base-10-integer](https://github.com/banijames/LeetChamp/tree/master/1009-complement-of-base-10-integer) |
 ## Dynamic Programming
