@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/banijames/LeetChamp/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/banijames/LeetChamp/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/banijames/LeetChamp/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/banijames/LeetChamp/tree/master/0567-permutation-in-string) |
 | [0876-middle-of-the-linked-list](https://github.com/banijames/LeetChamp/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/banijames/LeetChamp/tree/master/0977-squares-of-a-sorted-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/banijames/LeetChamp/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/banijames/LeetChamp/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/banijames/LeetChamp/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/banijames/LeetChamp/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/banijames/LeetChamp/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/banijames/LeetChamp/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/banijames/LeetChamp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Hash Table
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/banijames/LeetChamp/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/banijames/LeetChamp/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/banijames/LeetChamp/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/banijames/LeetChamp/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/banijames/LeetChamp/tree/master/0904-fruit-into-baskets) |
 | [1331-rank-transform-of-an-array](https://github.com/banijames/LeetChamp/tree/master/1331-rank-transform-of-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/banijames/LeetChamp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/banijames/LeetChamp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/banijames/LeetChamp/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/banijames/LeetChamp/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/banijames/LeetChamp/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/banijames/LeetChamp/tree/master/0904-fruit-into-baskets) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/banijames/LeetChamp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/banijames/LeetChamp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
