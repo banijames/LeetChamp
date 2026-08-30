@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/banijames/LeetChamp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/banijames/LeetChamp/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/banijames/LeetChamp/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/banijames/LeetChamp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/banijames/LeetChamp/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/banijames/LeetChamp/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/banijames/LeetChamp/tree/master/0287-find-the-duplicate-number) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/banijames/LeetChamp/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/banijames/LeetChamp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/banijames/LeetChamp/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/banijames/LeetChamp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/banijames/LeetChamp/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/banijames/LeetChamp/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/banijames/LeetChamp/tree/master/0704-binary-search) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/banijames/LeetChamp/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/banijames/LeetChamp/tree/master/0023-merge-k-sorted-lists) |
 | [0191-number-of-1-bits](https://github.com/banijames/LeetChamp/tree/master/0191-number-of-1-bits) |
+| [0240-search-a-2d-matrix-ii](https://github.com/banijames/LeetChamp/tree/master/0240-search-a-2d-matrix-ii) |
 ## Stack
 |  |
 | ------- |
@@ -296,4 +299,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/banijames/LeetChamp/tree/master/0054-spiral-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/banijames/LeetChamp/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
