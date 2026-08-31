@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/banijames/LeetChamp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/banijames/LeetChamp/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/banijames/LeetChamp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2643-row-with-maximum-ones](https://github.com/banijames/LeetChamp/tree/master/2643-row-with-maximum-ones) |
 | [3046-split-the-array](https://github.com/banijames/LeetChamp/tree/master/3046-split-the-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/banijames/LeetChamp/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/banijames/LeetChamp/tree/master/3731-find-missing-elements) |
@@ -308,4 +309,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/banijames/LeetChamp/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/banijames/LeetChamp/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/banijames/LeetChamp/tree/master/0240-search-a-2d-matrix-ii) |
+| [2643-row-with-maximum-ones](https://github.com/banijames/LeetChamp/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
