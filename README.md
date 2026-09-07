@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/banijames/LeetChamp/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/banijames/LeetChamp/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/banijames/LeetChamp/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/banijames/LeetChamp/tree/master/0509-fibonacci-number) |
 ## Math
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/banijames/LeetChamp/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/banijames/LeetChamp/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/banijames/LeetChamp/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/banijames/LeetChamp/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/banijames/LeetChamp/tree/master/0523-continuous-subarray-sum) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/banijames/LeetChamp/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/banijames/LeetChamp/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/banijames/LeetChamp/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/banijames/LeetChamp/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/banijames/LeetChamp/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -317,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/banijames/LeetChamp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/banijames/LeetChamp/tree/master/0867-transpose-matrix) |
 | [2643-row-with-maximum-ones](https://github.com/banijames/LeetChamp/tree/master/2643-row-with-maximum-ones) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/banijames/LeetChamp/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
