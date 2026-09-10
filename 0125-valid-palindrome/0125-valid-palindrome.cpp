@@ -5,17 +5,17 @@ public:
         int end = s.size()-1;
         while(start<end){
             //removing all special characters from left
-            if(!isalnum(s[start])){
+            while(start<end && !isalnum(s[start])){
                 start++;
             }
             //removing special characters from right
-            else if(!isalnum(s[end])){
+            while(start<end && !isalnum(s[end])){
                 end--;
             }
-            else if(tolower(s[start++])!=tolower(s[end--])){
-                return false;
+            if(tolower(s[start++])!=tolower(s[end--])){
+                return 0;
             }
         }
-        return true;
+        return 1;
     }
 };
