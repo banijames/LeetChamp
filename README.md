@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/banijames/LeetChamp/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/banijames/LeetChamp/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/banijames/LeetChamp/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/banijames/LeetChamp/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/banijames/LeetChamp/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/banijames/LeetChamp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0137-single-number-ii](https://github.com/banijames/LeetChamp/tree/master/0137-single-number-ii) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/banijames/LeetChamp/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/banijames/LeetChamp/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/banijames/LeetChamp/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/banijames/LeetChamp/tree/master/0231-power-of-two) |
@@ -330,4 +332,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/banijames/LeetChamp/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/banijames/LeetChamp/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
