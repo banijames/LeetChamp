@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/banijames/LeetChamp/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/banijames/LeetChamp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/banijames/LeetChamp/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/banijames/LeetChamp/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/banijames/LeetChamp/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/banijames/LeetChamp/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/banijames/LeetChamp/tree/master/0054-spiral-matrix) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/banijames/LeetChamp/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0039-combination-sum](https://github.com/banijames/LeetChamp/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/banijames/LeetChamp/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/banijames/LeetChamp/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
