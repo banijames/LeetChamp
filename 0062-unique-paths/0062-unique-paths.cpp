@@ -1,7 +1,7 @@
 class Solution {
 private:
     private:
-    int gridways(int i, int j, int m, int n, vector<vector<int>>& memo) {
+    int solve(int i, int j, int m, int n, vector<vector<int>>& path) {
         // Destination reached
         if (i == m - 1 && j == n - 1) {
             return 1;
@@ -13,21 +13,21 @@ private:
         }
 
         // Already calculated
-        if (memo[i][j] != -1) {
-            return memo[i][j];
+        if (path[i][j] != -1) {
+            return path[i][j];
         }
 
-        int rightway = gridways(i, j + 1, m, n, memo);
-        int downway = gridways(i + 1, j, m, n, memo);
+        int rightway = solve(i, j + 1, m, n, path);
+        int downway = solve(i + 1, j, m, n, path);
 
-        memo[i][j] = rightway + downway;
+        path[i][j] = rightway + downway;
 
-        return memo[i][j];
+        return path[i][j];
         
     }
 public:
     int uniquePaths(int m, int n) {
-        vector<vector<int>>memo(m,vector<int>(n,-1));
-        return gridways(0,0,m,n,memo);
+        vector<vector<int>>path(m,vector<int>(n,-1));
+        return solve(0,0,m,n,path);
     }
 };
