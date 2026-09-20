@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/banijames/LeetChamp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/banijames/LeetChamp/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/banijames/LeetChamp/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/banijames/LeetChamp/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/banijames/LeetChamp/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/banijames/LeetChamp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/banijames/LeetChamp/tree/master/0268-missing-number) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/banijames/LeetChamp/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/banijames/LeetChamp/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/banijames/LeetChamp/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0198-house-robber](https://github.com/banijames/LeetChamp/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/banijames/LeetChamp/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
