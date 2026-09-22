@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/banijames/LeetChamp/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/banijames/LeetChamp/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/banijames/LeetChamp/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/banijames/LeetChamp/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/banijames/LeetChamp/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/banijames/LeetChamp/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/banijames/LeetChamp/tree/master/0048-rotate-image) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/banijames/LeetChamp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/banijames/LeetChamp/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/banijames/LeetChamp/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/banijames/LeetChamp/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/banijames/LeetChamp/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/banijames/LeetChamp/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/banijames/LeetChamp/tree/master/0146-lru-cache) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/banijames/LeetChamp/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/banijames/LeetChamp/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/banijames/LeetChamp/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/banijames/LeetChamp/tree/master/0240-search-a-2d-matrix-ii) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/banijames/LeetChamp/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/banijames/LeetChamp/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/banijames/LeetChamp/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/banijames/LeetChamp/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/banijames/LeetChamp/tree/master/0051-n-queens) |
@@ -369,5 +373,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/banijames/LeetChamp/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/banijames/LeetChamp/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/banijames/LeetChamp/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
