@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/banijames/LeetChamp/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/banijames/LeetChamp/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/banijames/LeetChamp/tree/master/0048-rotate-image) |
+| [0051-n-queens](https://github.com/banijames/LeetChamp/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/banijames/LeetChamp/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/banijames/LeetChamp/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/banijames/LeetChamp/tree/master/0078-subsets) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/banijames/LeetChamp/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/banijames/LeetChamp/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/banijames/LeetChamp/tree/master/0046-permutations) |
+| [0051-n-queens](https://github.com/banijames/LeetChamp/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/banijames/LeetChamp/tree/master/0078-subsets) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -364,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/banijames/LeetChamp/tree/master/0062-unique-paths) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/banijames/LeetChamp/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
