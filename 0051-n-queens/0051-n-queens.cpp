@@ -37,9 +37,9 @@ private:
             }
             for(int row=0;row<n;row++){
                 if(isSafe(row,col,grid,n)){
-                    grid[row][col]='Q';
+                    grid[row][col]='Q';//after safety check placing the queen
                     solve(n,col+1,ans,grid);
-                    grid[row][col]='.';
+                    grid[row][col]='.';//backtrack
                 }
             }
     }
