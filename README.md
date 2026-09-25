@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/banijames/LeetChamp/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/banijames/LeetChamp/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/banijames/LeetChamp/tree/master/0560-subarray-sum-equals-k) |
+| [0674-longest-continuous-increasing-subsequence](https://github.com/banijames/LeetChamp/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/banijames/LeetChamp/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/banijames/LeetChamp/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/banijames/LeetChamp/tree/master/0724-find-pivot-index) |
