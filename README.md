@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/banijames/LeetChamp/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/banijames/LeetChamp/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/banijames/LeetChamp/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/banijames/LeetChamp/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/banijames/LeetChamp/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/banijames/LeetChamp/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/banijames/LeetChamp/tree/master/0344-reverse-string) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/banijames/LeetChamp/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/banijames/LeetChamp/tree/master/0143-reorder-list) |
 | [0853-car-fleet](https://github.com/banijames/LeetChamp/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/banijames/LeetChamp/tree/master/0856-score-of-parentheses) |
@@ -400,5 +402,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/banijames/LeetChamp/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/banijames/LeetChamp/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
