@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/banijames/LeetChamp/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/banijames/LeetChamp/tree/master/0680-valid-palindrome-ii) |
 | [0856-score-of-parentheses](https://github.com/banijames/LeetChamp/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/banijames/LeetChamp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/banijames/LeetChamp/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/banijames/LeetChamp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/banijames/LeetChamp/tree/master/3498-reverse-degree-of-a-string) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/banijames/LeetChamp/tree/master/0143-reorder-list) |
 | [0853-car-fleet](https://github.com/banijames/LeetChamp/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/banijames/LeetChamp/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/banijames/LeetChamp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/banijames/LeetChamp/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sorting
 |  |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/banijames/LeetChamp/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/banijames/LeetChamp/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/banijames/LeetChamp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Number Theory
 |  |
 | ------- |
@@ -404,4 +407,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/banijames/LeetChamp/tree/master/0020-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/banijames/LeetChamp/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/banijames/LeetChamp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
