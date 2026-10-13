@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/banijames/LeetChamp/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/banijames/LeetChamp/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/banijames/LeetChamp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/banijames/LeetChamp/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/banijames/LeetChamp/tree/master/3498-reverse-degree-of-a-string) |
 ## Hash Table
 |  |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/banijames/LeetChamp/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/banijames/LeetChamp/tree/master/0287-find-the-duplicate-number) |
 | [1009-complement-of-base-10-integer](https://github.com/banijames/LeetChamp/tree/master/1009-complement-of-base-10-integer) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/banijames/LeetChamp/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/banijames/LeetChamp/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/banijames/LeetChamp/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/banijames/LeetChamp/tree/master/0090-subsets-ii) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/banijames/LeetChamp/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
