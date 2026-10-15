@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/banijames/LeetChamp/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/banijames/LeetChamp/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/banijames/LeetChamp/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/banijames/LeetChamp/tree/master/0779-k-th-symbol-in-grammar) |
 ## Math
 |  |
 | ------- |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/banijames/LeetChamp/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/banijames/LeetChamp/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/banijames/LeetChamp/tree/master/0523-continuous-subarray-sum) |
+| [0779-k-th-symbol-in-grammar](https://github.com/banijames/LeetChamp/tree/master/0779-k-th-symbol-in-grammar) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/banijames/LeetChamp/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/banijames/LeetChamp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/banijames/LeetChamp/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/banijames/LeetChamp/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/banijames/LeetChamp/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/banijames/LeetChamp/tree/master/0287-find-the-duplicate-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/banijames/LeetChamp/tree/master/0779-k-th-symbol-in-grammar) |
 | [1009-complement-of-base-10-integer](https://github.com/banijames/LeetChamp/tree/master/1009-complement-of-base-10-integer) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/banijames/LeetChamp/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Dynamic Programming
