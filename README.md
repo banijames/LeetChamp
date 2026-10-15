@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/banijames/LeetChamp/tree/master/1331-rank-transform-of-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/banijames/LeetChamp/tree/master/1480-running-sum-of-1d-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/banijames/LeetChamp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1672-richest-customer-wealth](https://github.com/banijames/LeetChamp/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/banijames/LeetChamp/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/banijames/LeetChamp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/banijames/LeetChamp/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -397,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/banijames/LeetChamp/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/banijames/LeetChamp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/banijames/LeetChamp/tree/master/0867-transpose-matrix) |
+| [1672-richest-customer-wealth](https://github.com/banijames/LeetChamp/tree/master/1672-richest-customer-wealth) |
 | [2643-row-with-maximum-ones](https://github.com/banijames/LeetChamp/tree/master/2643-row-with-maximum-ones) |
 ## Memoization
 |  |
