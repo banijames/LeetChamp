@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/banijames/LeetChamp/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/banijames/LeetChamp/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/banijames/LeetChamp/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/banijames/LeetChamp/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/banijames/LeetChamp/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/banijames/LeetChamp/tree/master/0090-subsets-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/banijames/LeetChamp/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/banijames/LeetChamp/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/banijames/LeetChamp/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/banijames/LeetChamp/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/banijames/LeetChamp/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/banijames/LeetChamp/tree/master/0234-palindrome-linked-list) |
 | [0853-car-fleet](https://github.com/banijames/LeetChamp/tree/master/0853-car-fleet) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/banijames/LeetChamp/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/banijames/LeetChamp/tree/master/0085-maximal-rectangle) |
 | [0853-car-fleet](https://github.com/banijames/LeetChamp/tree/master/0853-car-fleet) |
 ## Linked List
 |  |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/banijames/LeetChamp/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/banijames/LeetChamp/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/banijames/LeetChamp/tree/master/0062-unique-paths) |
+| [0085-maximal-rectangle](https://github.com/banijames/LeetChamp/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/banijames/LeetChamp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/banijames/LeetChamp/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/banijames/LeetChamp/tree/master/0509-fibonacci-number) |
@@ -406,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/banijames/LeetChamp/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/banijames/LeetChamp/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/banijames/LeetChamp/tree/master/0054-spiral-matrix) |
+| [0085-maximal-rectangle](https://github.com/banijames/LeetChamp/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/banijames/LeetChamp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0867-transpose-matrix](https://github.com/banijames/LeetChamp/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/banijames/LeetChamp/tree/master/1672-richest-customer-wealth) |
