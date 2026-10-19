@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/banijames/LeetChamp/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/banijames/LeetChamp/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/banijames/LeetChamp/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/banijames/LeetChamp/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/banijames/LeetChamp/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/banijames/LeetChamp/tree/master/0523-continuous-subarray-sum) |
 | [0779-k-th-symbol-in-grammar](https://github.com/banijames/LeetChamp/tree/master/0779-k-th-symbol-in-grammar) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/banijames/LeetChamp/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/banijames/LeetChamp/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/banijames/LeetChamp/tree/master/0287-find-the-duplicate-number) |
+| [0371-sum-of-two-integers](https://github.com/banijames/LeetChamp/tree/master/0371-sum-of-two-integers) |
 | [0779-k-th-symbol-in-grammar](https://github.com/banijames/LeetChamp/tree/master/0779-k-th-symbol-in-grammar) |
 | [1009-complement-of-base-10-integer](https://github.com/banijames/LeetChamp/tree/master/1009-complement-of-base-10-integer) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/banijames/LeetChamp/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
