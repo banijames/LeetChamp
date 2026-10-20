@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/banijames/LeetChamp/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/banijames/LeetChamp/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/banijames/LeetChamp/tree/master/0151-reverse-words-in-a-string) |
+| [0224-basic-calculator](https://github.com/banijames/LeetChamp/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/banijames/LeetChamp/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/banijames/LeetChamp/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/banijames/LeetChamp/tree/master/0443-string-compression) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/banijames/LeetChamp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/banijames/LeetChamp/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/banijames/LeetChamp/tree/master/0143-reorder-list) |
+| [0224-basic-calculator](https://github.com/banijames/LeetChamp/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/banijames/LeetChamp/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/banijames/LeetChamp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/banijames/LeetChamp/tree/master/0503-next-greater-element-ii) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/banijames/LeetChamp/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/banijames/LeetChamp/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/banijames/LeetChamp/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/banijames/LeetChamp/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/banijames/LeetChamp/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/banijames/LeetChamp/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/banijames/LeetChamp/tree/master/0509-fibonacci-number) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/banijames/LeetChamp/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/banijames/LeetChamp/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/banijames/LeetChamp/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/banijames/LeetChamp/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/banijames/LeetChamp/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/banijames/LeetChamp/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/banijames/LeetChamp/tree/master/0268-missing-number) |
