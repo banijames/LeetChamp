@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/banijames/LeetChamp/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/banijames/LeetChamp/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/banijames/LeetChamp/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/banijames/LeetChamp/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/banijames/LeetChamp/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/banijames/LeetChamp/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/banijames/LeetChamp/tree/master/0567-permutation-in-string) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/banijames/LeetChamp/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/banijames/LeetChamp/tree/master/0227-basic-calculator-ii) |
 | [0234-palindrome-linked-list](https://github.com/banijames/LeetChamp/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/banijames/LeetChamp/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/banijames/LeetChamp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/banijames/LeetChamp/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/banijames/LeetChamp/tree/master/0739-daily-temperatures) |
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/banijames/LeetChamp/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/banijames/LeetChamp/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/banijames/LeetChamp/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/banijames/LeetChamp/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/banijames/LeetChamp/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/banijames/LeetChamp/tree/master/0779-k-th-symbol-in-grammar) |
 ## Math
