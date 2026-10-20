@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/banijames/LeetChamp/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/banijames/LeetChamp/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/banijames/LeetChamp/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/banijames/LeetChamp/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/banijames/LeetChamp/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/banijames/LeetChamp/tree/master/0560-subarray-sum-equals-k) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/banijames/LeetChamp/tree/master/0674-longest-continuous-increasing-subsequence) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/banijames/LeetChamp/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/banijames/LeetChamp/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/banijames/LeetChamp/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/banijames/LeetChamp/tree/master/0503-next-greater-element-ii) |
 | [0853-car-fleet](https://github.com/banijames/LeetChamp/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/banijames/LeetChamp/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/banijames/LeetChamp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/banijames/LeetChamp/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/banijames/LeetChamp/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/banijames/LeetChamp/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/banijames/LeetChamp/tree/master/0503-next-greater-element-ii) |
 | [0853-car-fleet](https://github.com/banijames/LeetChamp/tree/master/0853-car-fleet) |
 ## Linked List
 |  |
