@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/banijames/LeetChamp/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/banijames/LeetChamp/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/banijames/LeetChamp/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/banijames/LeetChamp/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/banijames/LeetChamp/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/banijames/LeetChamp/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0853-car-fleet](https://github.com/banijames/LeetChamp/tree/master/0853-car-fleet) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/banijames/LeetChamp/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/banijames/LeetChamp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/banijames/LeetChamp/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/banijames/LeetChamp/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/banijames/LeetChamp/tree/master/0853-car-fleet) |
 | [0856-score-of-parentheses](https://github.com/banijames/LeetChamp/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/banijames/LeetChamp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -231,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/banijames/LeetChamp/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/banijames/LeetChamp/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/banijames/LeetChamp/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/banijames/LeetChamp/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/banijames/LeetChamp/tree/master/0853-car-fleet) |
 ## Linked List
 |  |
