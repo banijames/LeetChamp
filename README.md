@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/banijames/LeetChamp/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/banijames/LeetChamp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/banijames/LeetChamp/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/banijames/LeetChamp/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/banijames/LeetChamp/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/banijames/LeetChamp/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/banijames/LeetChamp/tree/master/0209-minimum-size-subarray-sum) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/banijames/LeetChamp/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/banijames/LeetChamp/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/banijames/LeetChamp/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/banijames/LeetChamp/tree/master/0179-largest-number) |
 | [0224-basic-calculator](https://github.com/banijames/LeetChamp/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/banijames/LeetChamp/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/banijames/LeetChamp/tree/master/0344-reverse-string) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/banijames/LeetChamp/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/banijames/LeetChamp/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/banijames/LeetChamp/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/banijames/LeetChamp/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/banijames/LeetChamp/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/banijames/LeetChamp/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0853-car-fleet](https://github.com/banijames/LeetChamp/tree/master/0853-car-fleet) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/banijames/LeetChamp/tree/master/0011-container-with-most-water) |
+| [0179-largest-number](https://github.com/banijames/LeetChamp/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/banijames/LeetChamp/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/banijames/LeetChamp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Number Theory
