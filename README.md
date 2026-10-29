@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/banijames/LeetChamp/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/banijames/LeetChamp/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/banijames/LeetChamp/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/banijames/LeetChamp/tree/master/0622-design-circular-queue) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/banijames/LeetChamp/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0704-binary-search](https://github.com/banijames/LeetChamp/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/banijames/LeetChamp/tree/master/0713-subarray-product-less-than-k) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/banijames/LeetChamp/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/banijames/LeetChamp/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/banijames/LeetChamp/tree/master/0328-odd-even-linked-list) |
+| [0622-design-circular-queue](https://github.com/banijames/LeetChamp/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/banijames/LeetChamp/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/banijames/LeetChamp/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/banijames/LeetChamp/tree/master/0146-lru-cache) |
 | [0232-implement-queue-using-stacks](https://github.com/banijames/LeetChamp/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/banijames/LeetChamp/tree/master/0622-design-circular-queue) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -513,4 +516,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/banijames/LeetChamp/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/banijames/LeetChamp/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
