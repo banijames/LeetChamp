@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/banijames/LeetChamp/tree/master/0227-basic-calculator-ii) |
 | [0344-reverse-string](https://github.com/banijames/LeetChamp/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/banijames/LeetChamp/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/banijames/LeetChamp/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/banijames/LeetChamp/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/banijames/LeetChamp/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/banijames/LeetChamp/tree/master/0443-string-compression) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/banijames/LeetChamp/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/banijames/LeetChamp/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/banijames/LeetChamp/tree/master/0268-missing-number) |
+| [0387-first-unique-character-in-a-string](https://github.com/banijames/LeetChamp/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/banijames/LeetChamp/tree/master/0424-longest-repeating-character-replacement) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/banijames/LeetChamp/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/banijames/LeetChamp/tree/master/0496-next-greater-element-i) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/banijames/LeetChamp/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/banijames/LeetChamp/tree/master/0387-first-unique-character-in-a-string) |
 | [3046-split-the-array](https://github.com/banijames/LeetChamp/tree/master/3046-split-the-array) |
 ## Divide and Conquer
 |  |
@@ -516,5 +519,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/banijames/LeetChamp/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/banijames/LeetChamp/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/banijames/LeetChamp/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
