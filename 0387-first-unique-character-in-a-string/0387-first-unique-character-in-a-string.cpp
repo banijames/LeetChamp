@@ -8,6 +8,7 @@ public:
         for(int i=0; i<s.size(); i++){
             if(freq[s[i]-'a']==1){//check for whether it has a frequency of one
                 return i;
+                break;
             }
         }
         return -1;
