@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/banijames/LeetChamp/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/banijames/LeetChamp/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/banijames/LeetChamp/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/banijames/LeetChamp/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/banijames/LeetChamp/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/banijames/LeetChamp/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/banijames/LeetChamp/tree/master/0268-missing-number) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/banijames/LeetChamp/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/banijames/LeetChamp/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/banijames/LeetChamp/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/banijames/LeetChamp/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/banijames/LeetChamp/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/banijames/LeetChamp/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/banijames/LeetChamp/tree/master/0231-power-of-two) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/banijames/LeetChamp/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/banijames/LeetChamp/tree/master/1291-sequential-digits) |
 ## Greedy
 |  |
@@ -418,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/banijames/LeetChamp/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/banijames/LeetChamp/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/banijames/LeetChamp/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/banijames/LeetChamp/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -533,4 +537,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/banijames/LeetChamp/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/banijames/LeetChamp/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/banijames/LeetChamp/tree/master/0622-design-circular-queue) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/banijames/LeetChamp/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/banijames/LeetChamp/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/banijames/LeetChamp/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
