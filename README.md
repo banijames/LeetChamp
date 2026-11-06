@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/banijames/LeetChamp/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/banijames/LeetChamp/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/banijames/LeetChamp/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/banijames/LeetChamp/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/banijames/LeetChamp/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/banijames/LeetChamp/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/banijames/LeetChamp/tree/master/0051-n-queens) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/banijames/LeetChamp/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/banijames/LeetChamp/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/banijames/LeetChamp/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/banijames/LeetChamp/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/banijames/LeetChamp/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/banijames/LeetChamp/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -419,6 +421,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/banijames/LeetChamp/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/banijames/LeetChamp/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/banijames/LeetChamp/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/banijames/LeetChamp/tree/master/0179-largest-number) |
 | [0680-valid-palindrome-ii](https://github.com/banijames/LeetChamp/tree/master/0680-valid-palindrome-ii) |
