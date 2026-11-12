@@ -10,9 +10,11 @@
  * };
  */
 class Solution {
-private:
-    void level(TreeNode* root, vector<vector<int>> &ans){
-        if(root==NULL) return;
+public:
+    vector<vector<int>> levelOrder(TreeNode* root) {
+        vector<vector<int>>ans;
+        
+        if(root==NULL) return ans;
 
         queue<TreeNode*>q;
         q.push(root);
@@ -35,11 +37,6 @@ private:
             }
             ans.push_back(currentLevel);
         }
-    }
-public:
-    vector<vector<int>> levelOrder(TreeNode* root) {
-        vector<vector<int>>ans;
-        level(root,ans);
         return ans;
     }
 };
