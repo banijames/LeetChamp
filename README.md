@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/banijames/LeetChamp/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/banijames/LeetChamp/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/banijames/LeetChamp/tree/master/0904-fruit-into-baskets) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/banijames/LeetChamp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/banijames/LeetChamp/tree/master/1331-rank-transform-of-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/banijames/LeetChamp/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/banijames/LeetChamp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/banijames/LeetChamp/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0853-car-fleet](https://github.com/banijames/LeetChamp/tree/master/0853-car-fleet) |
 | [0977-squares-of-a-sorted-array](https://github.com/banijames/LeetChamp/tree/master/0977-squares-of-a-sorted-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/banijames/LeetChamp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/banijames/LeetChamp/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/banijames/LeetChamp/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/banijames/LeetChamp/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/banijames/LeetChamp/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/banijames/LeetChamp/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/banijames/LeetChamp/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/banijames/LeetChamp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -463,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/banijames/LeetChamp/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/banijames/LeetChamp/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/banijames/LeetChamp/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/banijames/LeetChamp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/banijames/LeetChamp/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0226-invert-binary-tree](https://github.com/banijames/LeetChamp/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/banijames/LeetChamp/tree/master/0404-sum-of-left-leaves) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/banijames/LeetChamp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -488,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/banijames/LeetChamp/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/banijames/LeetChamp/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/banijames/LeetChamp/tree/master/0543-diameter-of-binary-tree) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/banijames/LeetChamp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Simulation
 |  |
 | ------- |
