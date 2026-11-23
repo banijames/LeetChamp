@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/banijames/LeetChamp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/banijames/LeetChamp/tree/master/1021-remove-outermost-parentheses) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/banijames/LeetChamp/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/banijames/LeetChamp/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/banijames/LeetChamp/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/banijames/LeetChamp/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 | [3498-reverse-degree-of-a-string](https://github.com/banijames/LeetChamp/tree/master/3498-reverse-degree-of-a-string) |
