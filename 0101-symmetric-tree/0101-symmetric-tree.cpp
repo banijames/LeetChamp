@@ -11,12 +11,11 @@
  */
 class Solution {
 private:
-    bool mirror(TreeNode* n1, TreeNode* n2){
-        if(n1==NULL && n2==NULL) return true;
-
-        if(n1==NULL || n2==NULL) return false;
-
-        return n1->val == n2->val && mirror(n1->left,n2->right) && mirror(n1->right,n2->left);
+    bool mirror(TreeNode* p, TreeNode* q){
+        if(p==NULL && q==NULL) return true;
+        if(p==NULL || q==NULL) return false;
+        return p->val == q->val && mirror(p->left,q->right) && mirror(p->right,q->left);
+        
     }
 public:
     bool isSymmetric(TreeNode* root) {
