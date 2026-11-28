@@ -474,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/banijames/LeetChamp/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/banijames/LeetChamp/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/banijames/LeetChamp/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/banijames/LeetChamp/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/banijames/LeetChamp/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/banijames/LeetChamp/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/banijames/LeetChamp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/banijames/LeetChamp/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/banijames/LeetChamp/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/banijames/LeetChamp/tree/master/0437-path-sum-iii) |
+| [0450-delete-node-in-a-bst](https://github.com/banijames/LeetChamp/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/banijames/LeetChamp/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/banijames/LeetChamp/tree/master/0700-search-in-a-binary-search-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/banijames/LeetChamp/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -656,5 +658,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0450-delete-node-in-a-bst](https://github.com/banijames/LeetChamp/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/banijames/LeetChamp/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
